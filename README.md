@@ -12,7 +12,7 @@ Over the past year, I have taken part in training courses, learned new technolog
 - <a href="https://blackberryid-async-race.netlify.app/">Async race</a> - (<a href="https://github.com/mikhama/async-race-api">clone and start the server to view the app</a>) React first steps
 - <a href="https://blackberryid-christmas-task-v2.netlify.app/">Christmas task</a> - TS
 - <a href="https://blackberryid-art-quiz.netlify.app/">Art quiz</a> - JS
-- <a href="https://blackberryid-momentum.netlify.app/">Momentum</a> - JS
+- <a href="https://github.com/BlackBerryID/momentum">Momentum</a> - JS
 - <a href="https://blackberryid-museum.netlify.app">Museum</a> - HTML, SCSS, JS
 
 ## 🚀 NodeJS projects
