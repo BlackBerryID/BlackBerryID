@@ -20,6 +20,8 @@ Over the past year, I have taken part in training courses, learned new technolog
 
 ## 🌱 I’m currently learning
 - NodeJS Basics (RSSchool course)
+- SQL, PostgreSQL
+- GRPC
 
 ## 🤝 Connect with me
 <img align="center" src="https://raw.githubusercontent.com/BlackBerryID/BlackBerryID/main/images/telegram.svg" alt="Yu Shi | LinkedIn" width="21px"/> **_@BlackBerryID_**
