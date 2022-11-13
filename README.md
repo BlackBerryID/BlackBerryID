@@ -10,7 +10,7 @@ Over the past year, I have taken part in training courses, learned new technolog
 ## 🏗️ JS/React projects
 - RS lang <a href="https://github.com/BlackBerryID/rslang">Repo</a> / <a href="https://rs-lang-blackberryid.netlify.app/">Demo</a> - React (team project)
 - <a href="https://blackberryid-async-race.netlify.app/">Async race</a> - (<a href="https://github.com/mikhama/async-race-api">clone and start the server to view the app</a>) React first steps
-- <a href="https://blackberryid-christmas-task-v2.netlify.app/">Christmas task</a> - TS
+- <a href="https://github.com/BlackBerryID/christmas-game">Christmas task</a> - TS
 - <a href="https://github.com/BlackBerryID/art-quiz">Art quiz</a> - JS
 - <a href="https://github.com/BlackBerryID/momentum">Momentum</a> - JS
 - <a href="https://blackberryid-museum.netlify.app">Museum</a> - HTML, SCSS, JS
