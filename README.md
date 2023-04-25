@@ -6,6 +6,7 @@ Over the past year, I have taken part in training courses, learned new technolog
 
 ## 🎫 My webinars
 - <a href="https://blackberryid-presentation.netlify.app/">HTTP presentation</a> and <a href="https://www.youtube.com/watch?v=IDvQevfTdMg">The record of speech from youtube</a>
+
   <a href="https://blackberryid.github.io/http-presentation/">RUS HTTP presentation</a>
 
 ## 🏗️ JS/React projects
